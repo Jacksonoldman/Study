@@ -1,0 +1,7 @@
+#include<iostream>
+
+int main()
+{
+  printlf("这是一个项目！")；
+  
+}
